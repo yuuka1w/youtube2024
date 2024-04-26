@@ -1,2 +1,7 @@
 # youtube2024
- WebアプリYouTube課題
+
+Web アプリ YouTube 課題
+
+## URL
+
+https://yuuka1w.github.io/youtube2024/
